@@ -1,0 +1,9 @@
+python dataset_tool.py create_from_images data/custom/N data/resize/N
+
+python train.py --outdir=training-runs --gpus=2 --data=data/custom/A 
+python train.py --outdir=training-runs --gpus=4 --data=data/custom/P1 
+
+python generate.py --outdir=out --trunc=1 --seeds=85,265,297,849 --network=https://nvlabs-fi-cdn.nvidia.com/stylegan2-ada/pretrained/metfaces.pkl
+
+python calc_metrics.py --metrics=pr50k3_full --network=~/training-runs/00000-ffhq10k-res64-auto1/network-snapshot
+-000000.pkl
