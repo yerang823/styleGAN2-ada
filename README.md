@@ -27,5 +27,5 @@
 
 ### # Classification result
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/97432613/156588880-fc363af3-e40b-4b9c-a14d-e7144c5b01a1.png"  width="50%" height="50%"/>
+    <img src="https://user-images.githubusercontent.com/97432613/156588880-fc363af3-e40b-4b9c-a14d-e7144c5b01a1.png" />
 </p>
