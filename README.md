@@ -7,7 +7,7 @@
 
 ### # Synthetic Image (Negative)
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/97432613/156586052-49c1ef92-b107-47ab-a1f5-a0bec37ee6ba.jpg"  width="50%" height="50%"/>
+    <img src="https://user-images.githubusercontent.com/97432613/156586281-abe08d9c-5400-445b-b861-c7fb03d78924.png"  width="50%" height="50%"/>
 </p>
 
 ### # Synthetic Image (P1)
